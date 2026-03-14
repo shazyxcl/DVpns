@@ -16,10 +16,7 @@ Go to [Releases](../../releases) to download the latest APK.
 
 - Android 6.0 (API 23) or higher
 
-## Notes
+## About
 
-> Source code is private. Only release builds are published here.
-
----
-
-*Built automatically via GitHub Actions.*
+•Telegram: t.me/david_dev77
+•Facebook: Nasruloh Hakim
