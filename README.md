@@ -16,7 +16,17 @@ Go to [Releases](../../releases) to download the latest APK.
 
 - Android 6.0 (API 23) or higher
 
-## About
+## Developer
 
-- Telegram: t.me/david_dev77
-- Telegram channel: t.me/nxprojects
+**David**
+
+| Platform | Link |
+|---|---|
+| GitHub | [@shazyxcl](https://github.com/shazyxcl) |
+| Telegram | [@david_dev77](https://t.me/david_dev77) |
+| Facebook | [Nasruloh Hakim](https://facebook.com/Nasruloh Hakim) |
+
+## Channel
+
+Join our Telegram channel for updates:
+👉 [t.me/nxprojects](https://t.me/nxprojects)
