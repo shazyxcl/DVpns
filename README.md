@@ -18,5 +18,5 @@ Go to [Releases](../../releases) to download the latest APK.
 
 ## About
 
-•Telegram: t.me/david_dev77
-•Facebook: Nasruloh Hakim
+- Telegram: t.me/david_dev77
+- Facebook: Nasruloh Hakim
