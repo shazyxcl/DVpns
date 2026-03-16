@@ -24,7 +24,7 @@ Go to [Releases](../../releases) to download the latest APK.
 |---|---|
 | GitHub | [@shazyxcl](https://github.com/shazyxcl) |
 | Telegram | [@david_dev77](https://t.me/david_dev77) |
-| Facebook | [Nasruloh Hakim](https://facebook.com/Nasruloh Hakim) |
+| Facebook | [Nasruloh Hakim](https://www.facebook.com/alexander.vilain45) |
 
 ## Channel
 
